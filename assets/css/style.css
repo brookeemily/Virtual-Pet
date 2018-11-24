@@ -1,0 +1,21 @@
+.btn-feed {
+    background-color: rgb(255, 55, 0);
+    color: white;
+}
+
+.btn-play {
+    background-color: rgb(255, 138, 35);
+    color: white;
+}
+
+.btn-sleep {
+    background-color: rgb(44, 40, 156);
+    color: white;
+}
+
+.head{
+	width: 52px;
+	height: 95px;
+	background-color: #f0ab8d;
+	border-radius: 25px;
+}
